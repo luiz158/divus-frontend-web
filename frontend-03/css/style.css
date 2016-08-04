@@ -1,0 +1,47 @@
+body {
+	background-color: slategray;
+	color: #222;
+	font-family: "Arial", sans-serif;
+	padding-top: 20px;
+}
+
+.app {
+	background-color: white;
+	margin: 0px auto;
+	min-height: 360px;
+	width: 50%;
+}
+
+.app div {
+	margin: 20px;
+}
+
+header {
+	padding: 20px;
+	text-align: center;
+}
+
+input {
+	padding: 5px;
+	width: 100%;
+}
+
+ul {
+    list-style: none;
+    margin: 20px 0;
+    padding: 0;
+}
+
+li {
+    height: 30px;
+	margin-bottom: 10px;
+    width: 100%;
+}
+
+li span {
+	float: left;
+}
+
+li button {
+	float: right;
+}
